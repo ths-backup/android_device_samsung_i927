@@ -19,7 +19,7 @@ LOCAL_PATH := device/samsung/i927
 TARGET_KERNEL_CONFIG := cyanogenmod_i927_defconfig
 
 # Assert
-TARGET_OTA_ASSERT_DEVICE := i927,SGH-I927,SGH-I927R
+TARGET_OTA_ASSERT_DEVICE := i927,SGH-I927,SGH-I927R,SGHI927,SGHI927R
 
 # Inherit from the proprietary version
 -include vendor/samsung/i927/BoardConfigVendor.mk
