@@ -25,4 +25,4 @@ PRODUCT_LOCALES += hdpi
 PRODUCT_PACKAGES += \
     GalaxyRSettings
 
-$(call inherit-product-if-exists, vendor/samsung/i927/i927-vendor.mk)
+$(call inherit-product-if-exists, vendor/samsung/i927/i927-vendor-blobs.mk)
